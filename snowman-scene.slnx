@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="snowman-scene.vcxproj" Id="8e64ecc8-fdaf-4c4e-b309-4de3d8c3e9db" />
+</Solution>
